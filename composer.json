@@ -2,6 +2,8 @@
   "name": "developertugrul/ziraat-bank-pos",
   "description": "Php Ziraat Bank Online Payment System",
   "type": "library",
+  "keywords": ["ziraat", "bank", "pos", "payment", "gateway"],
+  "homepage": "https://tugrulyildirim.com/ziraat-bankasi-pos-entegrasyonu",
   "require": {
     "php": ">=8.0"
   },
@@ -16,7 +18,7 @@
   },
   "authors": [
     {
-      "name": "developertugrul",
+      "name": "Tugrul Yildirim",
       "email": "iletisim@tugrulyildirim.com",
       "homepage": "https://tugrulyildirim.com",
       "role": "Developer"
