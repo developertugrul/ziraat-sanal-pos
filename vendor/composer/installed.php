@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'developertugrul/ziraat-bank-pos',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '9b1b5117cdf4679b506c326c568bbf8185147ba3',
+        'pretty_version' => '1.0.0',
+        'version' => '1.0.0.0',
+        'reference' => NULL,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -41,9 +41,9 @@
             ),
         ),
         'developertugrul/ziraat-bank-pos' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '9b1b5117cdf4679b506c326c568bbf8185147ba3',
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'reference' => NULL,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

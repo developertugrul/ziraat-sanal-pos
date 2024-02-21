@@ -45,7 +45,7 @@ class ComposerStaticInit05571ec7a59f0c89cd2fdc0d7410385d
         ),
         'Z' => 
         array (
-            'ZiraatBankasi\\' => 14,
+            'ZiraatBank\\' => 11,
             'ZBateson\\StreamDecorators\\' => 26,
             'ZBateson\\MbWrapper\\' => 19,
             'ZBateson\\MailMimeParser\\' => 24,
@@ -170,7 +170,7 @@ class ComposerStaticInit05571ec7a59f0c89cd2fdc0d7410385d
         array (
             0 => __DIR__ . '/..' . '/voku/portable-ascii/src/voku',
         ),
-        'ZiraatBankasi\\' => 
+        'ZiraatBank\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
