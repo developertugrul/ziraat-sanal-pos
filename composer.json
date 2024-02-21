@@ -3,7 +3,7 @@
   "description": "Php Ziraat Bank Online Payment System",
   "type": "library",
   "keywords": ["ziraat", "bank", "pos", "payment", "gateway"],
-  "homepage": "https://tugrulyildirim.com/ziraat-bankasi-pos-entegrasyonu",
+  "homepage": "https://tugrulyildirim.com/ziraat-bank-pos-entegration",
   "license": "MIT",
   "readme": "README.md",
   "version": "1.0.0",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ZiraatBankasi\\": "src/"
+      "ZiraatBank\\": "src/"
     }
   },
   "authors": [
@@ -31,7 +31,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "ZiraatBankasi\\ZiraatBankasiServiceProvider"
+        "ZiraatBank\\ZiraatBankServiceProvider"
       ]
     }
   }

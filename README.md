@@ -21,17 +21,17 @@ require_once 'vendor/autoload.php';
 After including the package, you have to add you api key and secret to .env file. You can get these credentials from Ziraat Bank.
 
 ```dotenv
-ZIRAAT_SANAL_POS_API_KEY=your-api-key
-ZIRAAT_SANAL_POS_SECRET=your-secret
+ZIRAAT_API_KEY=your-api-key
+ZIRAAT_API_SECRET=your-secret
 ```
 
 ### Create Instance
 After adding your credentials to .env file, you can create an instance of ZiraatSanalPos class:
 
 ```php
-use DeveloperTugrul\ZiraatSanalPos\ZiraatSanalPos;
+use ZiraatBankasi\ZiraatBank;
 
-$ziraatSanalPos = new ZiraatSanalPos();
+$ziraatSanalPos = new ZiraatBank();
 ```
 
 

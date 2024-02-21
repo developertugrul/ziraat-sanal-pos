@@ -1,6 +1,6 @@
 <?php
 
-namespace ZiraatBankasi;
+namespace ZiraatBank;
 
 class ZiraatBank
 {
