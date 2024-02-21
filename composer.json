@@ -4,6 +4,9 @@
   "type": "library",
   "keywords": ["ziraat", "bank", "pos", "payment", "gateway"],
   "homepage": "https://tugrulyildirim.com/ziraat-bankasi-pos-entegrasyonu",
+  "license": "MIT",
+  "readme": "README.md",
+  "version": "1.0.0",
   "require": {
     "php": ">=8.0",
     "ext-curl": "*"
