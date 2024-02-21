@@ -6,6 +6,7 @@
   "homepage": "https://tugrulyildirim.com/ziraat-bank-pos-entegration",
   "license": "MIT",
   "readme": "README.md",
+  "version": "1.0.0",
   "require": {
     "php": ">=8.0",
     "ext-curl": "*"
