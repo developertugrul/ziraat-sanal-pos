@@ -29,7 +29,7 @@ ZIRAAT_API_SECRET=your-secret
 After adding your credentials to .env file, you can create an instance of ZiraatSanalPos class:
 
 ```php
-use ZiraatBankasi\ZiraatBank;
+use ZiraatBank\ZiraatBank;
 
 $ziraatSanalPos = new ZiraatBank();
 ```
